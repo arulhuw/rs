@@ -28,6 +28,15 @@
 |11|Tuesday 18th July|Practical assessment|1, 2, 3, 4|		
 |12|Tuesday 25th July|Practical assessment|1, 2, 3, 4|		
 
-Learning Outcomes
+## Learning Outcomes
 
  
+7. Learning Outcomes(threshold standards)
+
+|No|Type               |On successful completion of this module the student will be expected to able to:|
+|--|-------------------|--------------------------------------------------------------------------------|
+|1|Knowledge and Understanding|Understand the requirements of higher education including acadamic voice|
+|2|Knowledge and Understanding|Understand the requirements of higher education including using reliable sources for research purposes|
+|3|Intellectual, practical, effective and transferrable skills|Demonstrate the fandamentals of acadamic research and writing 
+|3|Intellectual, practical, effective and transferrable skills|Complete practical research using online databases including the online library|
+
