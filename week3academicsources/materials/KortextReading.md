@@ -1,15 +1,15 @@
-Reliable v Academic Sources
+# Reliable v Academic Sources
 
 
-Activity 1: Self-Assessment
+# Activity 1: Self-Assessment
 
-On a scale from 1 to 7, with 1 being the lowest level of confidence and 7 being the highest, how confident are you in your ability to… 
+>On a scale from 1 to 7, with 1 being the lowest level of confidence and 7 being the highest, how confident are you in your ability to… 
 
-	1	2	3	4	5	6	7
-…understand the difference between a reliable and an academic source?							
-…evaluate a sources reliability?
-							
-…use the digital library?
+||1|2|3|4|5|6|7|
+|-|-|-|-|-|-|-|-|
+|…understand the difference between a reliable and an academic source?||||||||
+…evaluate a sources reliability?|||||
+…use the digital library?|
 							
 
 Activity 2 
