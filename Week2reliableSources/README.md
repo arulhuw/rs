@@ -1,10 +1,10 @@
 # Research Skills 1 Week 2 The Importance of Reliable Sources and Fake News 
 1. Lecture
-  - [Students Version](/Week2reliableSources/materials/students-ersion.pptx)
-  - [Lecturers Version](/Week2reliableSources/materials/students-ersion.pptx)
+  - [Students Version](/Week2reliableSources/materials/students-version.pptx)
+  - [Lecturers Version](/Week2reliableSources/materials/students-version.pptx)
   - [Lecture Note]()
 2. Students handout
-  - [Handout](/Week2reliableSources/Students-handout.docx)
+  - [Handout](/Week2reliableSources/materials/Students-handout.docx)
   - Notes
 
 
