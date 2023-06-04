@@ -24,3 +24,12 @@
 > ##### Academic, Authoritative, Reliable, reputable and Scholarly. 
 > ##### Scholarly can mean well written or researched.
 - Have been  peer reviewed(checked by experts before publication)
+
+- Peer review isn't personal thought i.e book or film review
+### Reliable sources
+- Not always Academic
+### Academic source
+- Usually reliable
+
+
+
