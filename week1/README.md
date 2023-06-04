@@ -6,6 +6,7 @@
 - [Lecturers version](/week1/materials/Introduction-Lecturers%20-Version.pptx)
 - [Lecture Notes](/week1/materials/Class-Handout-Course-Introduction.md) 
 2. Introduction Class Handout Week 
-- [Handout](/week1/materials/Class-Handout-Course-Introduction.docx)
-- [Handout Note](/week1/materials/Handout-Introduction.md)
+- [Self-Assessment Handout Note](/week1/materials/Handout-Introduction.md)
+- [Self-Assessment Handout](/week1/materials/Class-Handout-Course-Introduction.docx)
+
 3. Introduction Quiz 
