@@ -17,4 +17,10 @@
   - Look for date published
 - #### Primary sources
   - more reliable then secondary material
-  - Not always possible or necessary primary sources
+  - Not always possible or necessary to use primary sources
+
+##  Academic or Scholarly
+*Terms used interchangeably*
+> ##### Academic, Authoritative, Reliable, reputable and Scholarly. 
+> ##### Scholarly can mean well written or researched.
+- Have been  peer reviewed(checked by experts before publication)
