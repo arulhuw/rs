@@ -21,9 +21,6 @@
 
 
 
-
-
-
 ## What is an academic source?
 
 
